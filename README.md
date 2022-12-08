@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christer Björk</h1>
 
-**'Game Developer & Programmer'**
+**`Game Developer & Programmer`**
 
 I'm an Indie Game Developer & Programmer continueing to learn new programming languages and software.
 
