@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christer Björk</h1>
-<h3 align="center">A passionate Game Developer from Sweden</h3>
+
+**Game Developer & Programmer**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christer-bjoerk&label=Profile%20views&color=0e75b6&style=flat" alt="christer-bjoerk" /> </p>
 
