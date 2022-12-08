@@ -8,7 +8,7 @@ I'm an Indie Game Developer & Programmer continueing to learn new programming la
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christer-bjoerk" alt="christer-bjoerk" /></a> </p>
 
-- 🔭 I’m currently working on **Ratchet & Clank Bolt Multiplier**
+- 🔭 I’m currently working on **recreating the Ratchet & Clank Bolt Multiplier in Unity**
 
 - 🌱 I’m currently learning **C++**
 
