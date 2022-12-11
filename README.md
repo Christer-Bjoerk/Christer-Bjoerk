@@ -2,7 +2,7 @@
 
 **`Game Developer & Programmer`**
 
-I'm an Indie Game Developer & Programmer continueing to learn new programming languages and software.
+I'm an Indie Game Developer & Programmer continuing to learn new programming languages and software.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christer-bjoerk&label=Profile%20views&color=0e75b6&style=flat" alt="christer-bjoerk" /> </p>
 
